@@ -1,0 +1,45 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+dist/
+build/
+.venv/
+venv/
+*.egg
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# Config with secrets (example file is safe)
+config.json
+
+# Credentials (NEVER commit)
+.cache/
+*.token
+.garth/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Test artifacts
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+
+# Local data (synced from Garmin)
+*.log
+daily-summaries.md
+
+# Build artifacts
+*.whl
+
+# Claude Code skill config (personal)
+SKILL.md

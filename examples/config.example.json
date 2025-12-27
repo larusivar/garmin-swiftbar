@@ -1,0 +1,20 @@
+{
+  "sync": {
+    "interval_minutes": 10,
+    "change_threshold_steps": 100,
+    "waking_hours_start": 7,
+    "waking_hours_end": 23
+  },
+  "notifications": {
+    "daily_summary_enabled": true,
+    "daily_summary_time": "00:00",
+    "sound": "Glass",
+    "log_to_markdown": true,
+    "log_file": "daily-summaries.md"
+  },
+  "widget": {
+    "show_freshness": true,
+    "freshness_warning_minutes": 30,
+    "refresh_method": "url_scheme"
+  }
+}

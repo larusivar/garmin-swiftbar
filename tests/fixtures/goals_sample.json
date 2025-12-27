@@ -1,0 +1,12 @@
+{
+  "weight_kg": 75,
+  "daily_steps": 10000,
+  "sleep_hours": 7,
+  "workouts_per_week": 3,
+  "notes": {
+    "weight": "Target weight goal",
+    "steps": "Daily step target",
+    "sleep": "Minimum hours of sleep",
+    "workouts": "Weekly workout frequency"
+  }
+}

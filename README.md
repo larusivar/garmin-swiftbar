@@ -2,6 +2,8 @@
 
 SwiftBar widget + automation for Garmin Connect health data on macOS.
 
+![garmin-swiftbar widget](assets/screenshot.png)
+
 ## Features
 
 - **Menu bar widget** showing steps, sleep, and data freshness
